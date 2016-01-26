@@ -1,0 +1,3 @@
+I've been trying to teach programming to my son a few days since he was born. (I figured I'd let him get used to the new surroundings for a couple of days, Heh.) I started him off with Scratch, and as soon as he could type comfortably I switched him to Python. (I also tried Khan academy's JavaScript, but switching language syntax adds to confusion.) 
+
+He's 10 now, and he kind of knows the basics - variables, loops, functions, etc. So now I've rebooted his programming education by giving him exercises - each one is supposed to be completed in a week. I'll put them up here as I make them. Maybe someone will find them useful. :-) 
